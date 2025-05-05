@@ -126,7 +126,7 @@ nav a {
 .wave {
   width: 5px;
   height: 100px;
-  background: linear-gradient(45deg, red, #fff);
+  background: linear-gradient(45deg, blue, #fff);
   margin: 10px;
   animation: wave 1s linear infinite;
   border-radius: 20px;
